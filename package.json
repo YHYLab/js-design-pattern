@@ -1,7 +1,7 @@
 {
   "name": "design_pattern",
   "version": "1.0.0",
-  "description": "",
+  "description": "JavaScript Design Pattern Study ====================",
   "main": "index.js",
   "scripts": {
     "test": "jasmine"
@@ -10,5 +10,13 @@
   "license": "ISC",
   "devDependencies": {
     "jasmine": "^2.8.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YHYLab/js-design-pattern.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YHYLab/js-design-pattern/issues"
+  },
+  "homepage": "https://github.com/YHYLab/js-design-pattern#readme"
 }
